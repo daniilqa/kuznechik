@@ -1,0 +1,24 @@
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\GOST R 34.12-15.exe.config
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\GOST R 34.12-15.exe
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\GOST R 34.12-15.pdb
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.csprojResolveAssemblyReference.cache
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST_R_34._12_15.Properties.Resources.resources
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.csproj.GenerateResource.Cache
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.exe
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.pdb
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST_R_34._12_15.FormMain.resources
+D:\Projects\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST_R_34._12_15.FormTest.resources
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\GOST R 34.12-15.exe.config
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\GOST R 34.12-15.exe
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\GOST R 34.12-15.pdb
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.csprojResolveAssemblyReference.cache
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST_R_34._12_15.FormMain.resources
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST_R_34._12_15.FormTest.resources
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST_R_34._12_15.Properties.Resources.resources
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.csproj.GenerateResource.Cache
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.exe
+D:\Projects\Диплом\Для диска\Source (windows)\GOST R 34.12-15\GOST R 34.12-15\obj\Debug\GOST R 34.12-15.pdb
